@@ -1,0 +1,10 @@
+[package]
+name = "first"
+version = "0.1.0"
+authors = ["dalongrong <1141591465@qq.com>"]
+[dependencies]
+rand ="0.4.2"
+log = "0.4.1"
+handlebars = "0.32.0"
+serde_json = "1.0.9"
+firstmod  = {path ="../firstmod"}

@@ -1,0 +1,6 @@
+[package]
+name = "firstmod"
+version = "0.1.0"
+authors = ["dalongrong <1141591465@qq.com>"]
+
+[dependencies]
